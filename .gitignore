@@ -1,0 +1,13 @@
+_ReSharper.WIYCSolution\
+TestResults\
+MvcApplication1\
+*.testsettings
+_ReSharper.*
+bin
+obj
+*.user
+*.cache
+*.vsmdi
+TODO.txt
+
+
